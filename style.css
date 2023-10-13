@@ -19,7 +19,7 @@ select {
     border-radius: 10px;
     color: rgb(255, 255, 255);
     background-image: url("https://images.saymedia-content.com/.image/t_share/MTkzODU1MjgzMjUxMTkzMzI4/svg-wave-generator.gif");   
-    animation: background-move 2s linear infinite;
+    animation: background-move 10s linear infinite;
     background-size: 100vw auto, 100% 100%; 
     background-position: 50% 50%;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
